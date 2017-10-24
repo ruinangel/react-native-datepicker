@@ -15,7 +15,7 @@ import {
     Platform,
     Animated,
     StyleSheet
-} from './../../HFFramework/Framework';
+} from './../../RocketRN/Framework';
 import Style from './style';
 import Moment from 'moment';
 
